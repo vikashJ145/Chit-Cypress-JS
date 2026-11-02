@@ -1,0 +1,38 @@
+{
+  "loginwithvalidcred": {
+    "name":"chitranshi Parihar",
+    "email": "chitranship2003@gmail.com",
+    "password": "Hello"
+  },
+  "invalidLogin": {
+        "email": "wronguser123@gmail.com",
+        "password": "WrongPassword123"
+    },
+  "payment": {
+    "name": "Test User",
+    "cardNumber": "4111111111111111",
+    "cvc": "311",
+    "month": "12",
+    "year": "2030"
+  },
+  "registerUser": {
+    "name": "Test User",
+    "email": "testedser12309@gmail.com",
+    "password": "Tes@123",
+
+    "day": "10",
+    "month": "May",
+    "year": "1998",
+
+    "firstName": "Test",
+    "lastName": "User",
+    "company": "Test Company",
+    "address": "123 Test Street",
+    "address2": "Near Test Mall",
+    "country": "India",
+    "state": "Madhya Pradesh",
+    "city": "Indore",
+    "zipcode": "452001",
+    "mobileNumber": "9876543210"
+  }
+}
