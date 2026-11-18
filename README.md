@@ -7,6 +7,37 @@ A JavaScript-based automation testing framework built using **Cypress** and the 
 This framework is designed to automate test cases for the [Automation Exercise](https://automationexercise.com/) website. It includes reusable methods, test data management, and automated test scenarios for different application modules.
 
 ---
+# start from the scratch 
+# step 1 
+node -v
+npm -v
+git --version
+These commands verify whether Node.js, npm, and Git are installed.
+
+# step 2 
+mkdir Chit-Cypress-JS
+cd Chit-Cypress-JS
+Create a new folder and navigate inside it.
+
+# step 3
+Initialize the Node.js project
+This creates a package.json file.
+npm init -y
+
+# step 4
+To nstall the cypress 
+npm install -D cypress
+
+# step 5 
+To launch cypress
+npx cypress open 
+
+Then follow these steps:
+1. Select E2E Testing.
+2. Click Continue.
+3. Select your preferred browser.
+4. Click Start E2E Testing.
+Cypress automatically generates the initial configuration and support files.
 
 ## 📌 Project Overview
 
@@ -29,19 +60,6 @@ The framework follows a modular structure to maintain reusable methods, locators
 
 ---
 
-## 🛠️ Technology Stack
-
-| Technology | Purpose |
-|---|---|
-| JavaScript | Programming language |
-| Cypress | Automation testing framework |
-| Node.js | JavaScript runtime |
-| npm | Package management |
-| VS Code | Code editor |
-| Git | Version control |
-| GitHub | Source code repository |
-
----
 
 ## 📂 Project Structure
 
